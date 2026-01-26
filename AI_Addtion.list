@@ -766,9 +766,9 @@ DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 # Statsig event tracking / Statsig  
 DOMAIN-SUFFIX,events.statsigapi.net
- 
+
 DOMAIN-KEYWORD,openai
- 
+
 DOMAIN-KEYWORD,ai.google.dev
 DOMAIN-KEYWORD,alkalicore-pa.clients6.google.com
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
@@ -816,6 +816,9 @@ DOMAIN-KEYWORD,copilot
 DOMAIN-KEYWORD,groq
 DOMAIN-KEYWORD,hcompany
 DOMAIN-KEYWORD,openaicom-api
+
+DOMAIN-KEYWORD,antigravity
+
 DOMAIN-SUFFIX,AI.com
 DOMAIN-SUFFIX,Anthropic.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
@@ -875,9 +878,9 @@ IP-ASN,14061,no-resolve
 IP-ASN,20473,no-resolve
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
- 
+
 DOMAIN-SUFFIX,windsurf.com
- 
+
 
 
 # 3rd part AI router
